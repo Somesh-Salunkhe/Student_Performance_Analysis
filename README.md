@@ -162,4 +162,3 @@ After training, the following files are saved in the `artifacts/` directory:
 ## 👤 Author
 
 **Somesh Salunkhe**  
-[GitHub](https://github.com/Somesh-Salunkhe) · [LinkedIn](https://www.linkedin.com/in/somesh-salunkhe)
